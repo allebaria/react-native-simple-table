@@ -1,0 +1,57 @@
+{
+  "_args": [
+    [
+      "react-native-simple-table@0.0.2",
+      "/Users/AlbertLlebaria/Desktop/Programes/Apps/LaPodrida/podrida"
+    ]
+  ],
+  "_from": "react-native-simple-table@0.0.2",
+  "_id": "react-native-simple-table@0.0.2",
+  "_inBundle": false,
+  "_integrity": "sha1-z6NEQoxF5kyBhu8PtnNKg2MKSwQ=",
+  "_location": "/react-native-simple-table",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-simple-table@0.0.2",
+    "name": "react-native-simple-table",
+    "escapedName": "react-native-simple-table",
+    "rawSpec": "0.0.2",
+    "saveSpec": null,
+    "fetchSpec": "0.0.2"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-simple-table/-/react-native-simple-table-0.0.2.tgz",
+  "_spec": "0.0.2",
+  "_where": "/Users/AlbertLlebaria/Desktop/Programes/Apps/LaPodrida/podrida",
+  "author": {
+    "name": "Jeepeng"
+  },
+  "bugs": {
+    "url": "https://github.com/Jeepeng/react-native-simple-table/issues"
+  },
+  "dependencies": {},
+  "description": "A simple table for react native.",
+  "homepage": "https://github.com/Jeepeng/react-native-simple-table#readme",
+  "keywords": [
+    "react-native-simple-table",
+    "react-native-table",
+    "react-native-data-table",
+    "simple table",
+    "table"
+  ],
+  "license": "Apache-2.0",
+  "main": "index.js",
+  "name": "react-native-simple-table",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jeepeng/react-native-simple-table.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.2"
+}
